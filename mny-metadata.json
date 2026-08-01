@@ -1,0 +1,17 @@
+{
+  "name": "Money",
+  "symbol": "MNY",
+  "description": "MNY is a Solana devnet token",
+  "image": "https://raw.githubusercontent.com/Maxwell317898/mny-devtoken/main/mny-logo.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Maxwell317898/mny-devtoken/main/mny-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
